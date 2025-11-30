@@ -4,15 +4,15 @@ Operating system.
 
 ## Structure
 
-### `/sbin/`
+### [`/sbin/`](./sbin)
 
 System binaries.
 
-### `/sys/`
+### [`/sys/`](./sys)
 
 Kernel.
 
-### `/tmp/`
+### [`/tmp/`](./tmp)
 
 Build-time files.
 
