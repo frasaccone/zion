@@ -4,6 +4,16 @@ Operating system.
 
 ## Structure
 
-* /sbin/ - System binaries.
-* /sys/  - Kernel.
-* /tmp/  - Build-time files, not part of the source code.
+### `/sbin/`
+
+System binaries.
+
+### `/sys/`
+
+Kernel.
+
+### `/tmp/`
+
+Build-time files.
+
+This is not to be considered part of the source code.
