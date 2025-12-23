@@ -1,19 +1,12 @@
-# Zion
+Zion
+====
 
 Operating system.
 
-## Structure
+Structure
+---------
 
-### [`/sbin/`](./sbin)
-
-System binaries.
-
-### [`/sys/`](./sys)
-
-Kernel.
-
-### [`/tmp/`](./tmp)
-
-Build-time files.
-
-This is not to be considered part of the source code.
+- [`/sbin/`](./sbin) — System binaries.
+- [`/sys/`](./sys)  — Kernel.
+- [`/tmp/`](./tmp) — Build-time files. This is not to be considered part of the
+  source code.
